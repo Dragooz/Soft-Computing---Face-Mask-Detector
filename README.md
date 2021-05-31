@@ -1,7 +1,7 @@
 # Soft-Computing---Face-Mask-Detector
 
 ## Face Mask Detector Project
-This project focus mainly on training a model that is able to classify whether the people wear a mask correctly, incorrectly or do not wear mask. The model will be deployed associated with face detector model, with the aid of OpenCV.
+COVID-19 pandamic is now greatly influences the life-style of humans. Everyone that going out to the public should wear mask to protect themselves as well as other people. This project focus mainly on creating a model that is able to classify whether the people wear a mask correctly, incorrectly or do not wear mask so that action can be taken on those who do not wear a mask properly. The model will be deployed associated with face detector model, with the aid of OpenCV.
 
 ### Objectives: 
 1. To detect whether the person wear a mask correctly, wear a mask incorrectly or do not wear a mask.
