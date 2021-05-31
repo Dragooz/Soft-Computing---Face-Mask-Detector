@@ -1,7 +1,7 @@
 # Soft-Computing---Face-Mask-Detector
 
 ## Face Mask Detector Project
-To detect whether a person wear the mask correctly, incorrectly or do not wear a mask
+To detect whether a person wear the mask correctly, incorrectly or do not wear a mask.
 
 ### Objectives: 
 1. To detect whether the person wear a mask correctly, wear a mask incorrectly or do not wear a mask.
