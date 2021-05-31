@@ -18,14 +18,14 @@ To detect whether a person wear the mask correctly, incorrectly or do not wear a
 
 ### It have mainly 2 parts:
 #### Train model to classify among wearing mask correctly, incorrectly or not wearing a mask
--MobileNetV2 is used as a base model.
--1000 images from each class are used to train the model.
--Result of the training:
+1. MobileNetV2 is used as a base model.
+2. 1000 images from each class are used to train the model.
+3. Result of the training: <br>
 ![plot](https://user-images.githubusercontent.com/47239545/120218868-ef2ea480-c26c-11eb-9516-3182c9ef794d.png)
 
 #### Deploying mask detector by associating with face detector model (Caffe model)
--Input an image with people
--Output an image with the a square boundary, associated with labels and a square boundary (green for correctly wearing mask, red for incorrectly wearing mask or do not wear mask)
+1. Input an image with people
+2. Output an image with the a square boundary, associated with labels and a square boundary (green for correctly wearing mask, red for incorrectly wearing mask or do not wear mask)
 
 ### Sample input/output image
 #### Input:
