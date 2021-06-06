@@ -34,6 +34,12 @@ COVID-19 pandamic is now greatly influences the life-style of humans. Everyone t
 #### Output:
 ![the-rock_checked](https://user-images.githubusercontent.com/47239545/120218794-d58d5d00-c26c-11eb-97fc-c1680d4b1a99.jpg)
 
+## Instruction to use the notebook
+
+1. Modify variables by searching 'modify here' in the notebook according to your preferences.
+2. Install all the requirements needed as mentioned in the notebook.
+3. Enjoy!
+
 
 
 
