@@ -6,6 +6,7 @@ __pycache__/
 #images
 *.jpg
 *.png
+*.psd
 
 # C extensions
 *.so
