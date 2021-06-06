@@ -1,7 +1,7 @@
-# Soft-Computing---Face-Mask-Detector
+# Soft-Computing: Face Mask Detection
 
-## Face Mask Detector Project
-To detect whether a person wear the mask correctly, incorrectly or do not wear a mask
+## Face Mask Detection Project
+COVID-19 pandamic is now greatly influences the life-style of humans. Everyone that going out to the public should wear mask to protect themselves as well as other people. This project focus mainly on creating a model that is able to classify whether the people wear a mask correctly, incorrectly or do not wear mask so that action can be taken on those who do not wear a mask properly. The model will be deployed associated with face detector model, with the aid of OpenCV.
 
 ### Objectives: 
 1. To detect whether the person wear a mask correctly, wear a mask incorrectly or do not wear a mask.
@@ -33,6 +33,12 @@ To detect whether a person wear the mask correctly, incorrectly or do not wear a
 
 #### Output:
 ![the-rock_checked](https://user-images.githubusercontent.com/47239545/120218794-d58d5d00-c26c-11eb-97fc-c1680d4b1a99.jpg)
+
+## Instruction to use the notebook
+
+1. Modify variables by searching 'modify here' in the notebook according to your preferences.
+2. Install all the requirements needed as mentioned in the notebook.
+3. Enjoy!
 
 
 
