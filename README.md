@@ -21,7 +21,7 @@ https://esigelec-my.sharepoint.com/personal/cabani_esigelec_fr/_layouts/15/onedr
 
 ## About the notebook
 
-### It have mainly 2 parts:
+### It has mainly 2 parts:
 #### Train model to classify among wearing mask correctly, incorrectly or not wearing a mask
 1. MobileNetV2 is used as a base model.
 2. 1000 images from each class are used to train the model.
